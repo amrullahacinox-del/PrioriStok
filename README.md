@@ -2,8 +2,8 @@
 
 > Sistem Informasi Pengelolaan Persediaan Barang Berbasis Web dengan Klasifikasi Decision Tree
 
-[![Figma](https://img.shields.io/badge/Figma-Design_File-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/z1WnE6Z9dt15fWol3WclGk/PROJECT-WEBSITE?node-id=0-1&t=wEC4b5yAzTbsBC5c-1))
-
+[![Figma](https://img.shields.io/badge/Figma-Design_File-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/z1WnE6Z9dt15fWol3WclGk/PROJECT-WEBSITE?node-id=0-1&t=wEC4b5yAzTbsBC5c-1)
+[![Google Drive](https://img.shields.io/badge/Google_Drive-Latar_Belakang-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/15kJKbUlCPAaKf5WnU3u2vZLWpkffIFhb/view)
 ---
 
 ##  Tentang PrioriStok
@@ -56,7 +56,7 @@ Memastikan pengelola toko selalu tahu barang apa yang harus diurus pertama kali.
         <sub><b>Falisha Putri Darsono</b></sub>
       </a>
       <br />
-      <sub>NIM: [07352411039]</sub>
+      <sub>NPM: 07352411039</sub>
       <br />
       <sub>Backend Developer</sub>
     </td>
@@ -67,7 +67,7 @@ Memastikan pengelola toko selalu tahu barang apa yang harus diurus pertama kali.
         <sub><b>Amrullah Syahrudin</b></sub>
       </a>
       <br />
-      <sub>NIM: [07352411095]</sub>
+      <sub>NPM: 07352411095</sub>
       <br />
       <sub>Backend Developer</sub>
     </td>
@@ -78,7 +78,7 @@ Memastikan pengelola toko selalu tahu barang apa yang harus diurus pertama kali.
         <sub><b>Nurlisya Duriyani</b></sub>
       </a>
       <br />
-      <sub>NIM: [07352411011]</sub>
+      <sub>NPM: 07352411011</sub>
       <br />
       <sub>Frontend Developer</sub>
     </td>
@@ -90,7 +90,7 @@ Memastikan pengelola toko selalu tahu barang apa yang harus diurus pertama kali.
         <sub><b>Khairunnisa Rusdi</b></sub>
       </a>
       <br />
-      <sub>NIM: [07352411114]</sub>
+      <sub>NPM: 07352411114</sub>
       <br />
       <sub>Frontend Developer</sub>
     </td>
