@@ -45,6 +45,58 @@ Memastikan pengelola toko selalu tahu barang apa yang harus diurus pertama kali.
 
 ---
 
+## 👥 Tim Pengembang
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/falishaseoul-wq">
+      <img width="100" height="100" alt="feli" src="https://github.com/user-attachments/assets/4b7b6b32-382e-4ad8-b7b0-d34c4bc22b77" />
+        <br/>
+        <sub><b>Falisha Putri Darsono</b></sub>
+      </a>
+      <br />
+      <sub>NIM: [07352411039]</sub>
+      <br />
+      <sub>Backend Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/amrullahacinox-del">
+        <img src="https://avatars.githubusercontent.com/u/987654321?v=4" width="100px;" alt="Amrullah"/>
+        <br />
+        <sub><b>Amrullah Syahrudin</b></sub>
+      </a>
+      <br />
+      <sub>NIM: [07352411095]</sub>
+      <br />
+      <sub>Backend Developer</sub>
+    </td>
+      <td align="center">
+      <a href="https://github.com/nurlisyaduriyani-arch">
+        <img src="https://avatars.githubusercontent.com/u/987654321?v=4" width="100px;" alt="Amrullah"/>
+        <br />
+        <sub><b>Nurlisya Duriyani</b></sub>
+      </a>
+      <br />
+      <sub>NIM: [07352411011]</sub>
+      <br />
+      <sub>Frontend Developer</sub>
+    </td>
+     </td>
+      <td align="center">
+      <a href="https://github.com/nissamalagapi-sudo">
+        <img src="https://avatars.githubusercontent.com/u/987654321?v=4" width="100px;" alt="Amrullah"/>
+        <br />
+        <sub><b>Khairunnisa Rusdi</b></sub>
+      </a>
+      <br />
+      <sub>NIM: [07352411114]</sub>
+      <br />
+      <sub>Frontend Developer</sub>
+    </td>
+    <!-- Copy block <td> di atas untuk menambah anggota baru -->
+  </tr>
+</table>
 ## 🚀 Cara Menjalankan
 
 1. Clone repository ini:
